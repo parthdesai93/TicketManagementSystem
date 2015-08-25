@@ -1,0 +1,19 @@
+Welcome to the Ticket Master
+Enter Command:
+Enter Session Type:
+Enter Username:
+Login Accepted
+Enter Command:
+Seller`s Username:
+Buyer`s Username:
+Amount of Credit to Transfer:
+Error: Seller does not have sufficient funds to perform transaction, re-enter new credit amount or Logout
+Error: Seller�s credit balance has reached a maximum of 999999.00, re-enter refund amount or Logout
+refund Successful
+Enter Command:
+Error: Invalid Command, retry
+Enter Command:
+Session Terminated
+Successfully Saved Transaction in Daily Transaction File
+Enter Command:
+Have a Nice Day/Night

@@ -1,0 +1,267 @@
+-----------------------Login Test-----------------------------
+TestCasesOrganization/login/login1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login10/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login11/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login12/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login13/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login6/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login7/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login8/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/login/login9/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Logout Test-----------------------------
+TestCasesOrganization/logout/logout1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/logout/logout2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/logout/logout3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/logout/logout4/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Create Test-----------------------------
+TestCasesOrganization/create/create1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create10/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create11/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create12/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create6/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create7/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create8/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/create/create9/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Refund Test-----------------------------
+TestCasesOrganization/refund/refund1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/refund/refund2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/refund/refund3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/refund/refund4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/refund/refund5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/refund/refund6/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Add Credit Test-----------------------------
+TestCasesOrganization/addcredit/addcredit1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit10/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit11/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit12/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit13/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit14/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit18/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit19/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit20/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit21/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit22/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit23/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit7/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit8/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/addcredit/addcredit9/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Buy Test-----------------------------
+TestCasesOrganization/buy/buy1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy10/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy11/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy12/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy6/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy7/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/buy/buy9/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------delete Test-----------------------------
+TestCasesOrganization/delete/delete1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/delete/delete2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/delete/delete3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/delete/delete4/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/delete/delete7/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Sell Test-----------------------------
+TestCasesOrganization/sell/sell1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell10/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell11/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell12/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell13/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell14/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell3/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell5/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell6/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell7/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell8/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/sell/sell9/
+TestCase Sucessfull
+------------------------------------------------------------
+-----------------------Quit Test-----------------------------
+TestCasesOrganization/quit/quit1/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/quit/quit2/
+TestCase Sucessfull
+------------------------------------------------------------
+TestCasesOrganization/quit/quit3/
+TestCase Sucessfull
+------------------------------------------------------------

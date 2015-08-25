@@ -1,0 +1,20 @@
+Welcome to the Ticket Master
+Enter Command:
+Enter Session Type:
+Enter Username:
+Login Accepted
+Enter Command:
+Error: refund transaction cannot be performed as a full-standard user, re-enter Session Type
+Enter Session Type:
+Enter Username:
+Login Accepted
+Enter Command:
+Seller`s Username:
+Buyer`s Username:
+Amount of Credit to Transfer:
+refund Successful
+Enter Command:
+Session Terminated
+Successfully Saved Transaction in Daily Transaction File
+Enter Command:
+Have a Nice Day/Night

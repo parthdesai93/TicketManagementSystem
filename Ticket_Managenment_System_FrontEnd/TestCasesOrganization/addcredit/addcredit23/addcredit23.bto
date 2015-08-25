@@ -1,0 +1,18 @@
+Welcome to the Ticket Master
+Enter Command:
+Enter Session Type:
+Enter Username:
+Login Accepted
+Enter Command:
+Credit Amount:
+Error: Incorrect credit amount form (xxx.xx where x is integer only ), re-enter credit amount
+Addcredit successful
+Enter Command:
+Error: Invalid Command, retry
+Enter Command:
+Error: Invalid Command, retry
+Enter Command:
+Session Terminated
+Successfully Saved Transaction in Daily Transaction File
+Enter Command:
+Have a Nice Day/Night
